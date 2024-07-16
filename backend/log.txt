@@ -1,0 +1,11 @@
+Ruta consultada: /joyas?limits=3&page=2&order_by=stock_ASC - 2024-07-16T04:57:36.034Z
+Ruta consultada: /joyas?limits=3&page=2&order_by=stock_ASC - 2024-07-16T05:03:56.079Z
+Ruta consultada: /joyas?limits=3&page=2&order_by=stock_ASC - 2024-07-16T05:11:02.110Z
+Ruta consultada: /joyas?limits=3&page=2&order_by=stock_ASC - 2024-07-16T05:11:03.220Z
+Ruta consultada: /joyas?limits=3&page=2&order_by=stock_ASC - 2024-07-16T05:11:03.904Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:11:38.525Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:13:04.608Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:13:05.474Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:14:14.180Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:14:47.035Z
+Ruta consultada: /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata - 2024-07-16T05:16:21.467Z
